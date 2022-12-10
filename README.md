@@ -31,7 +31,7 @@
 
 <br />
 
-![Impresso Espresso](./assets/home.png)
+![Impresso Espresso](./assets/home.png) 
 
 ![](./assets/community.png)
 ![](./assets/communitypt2.png)
